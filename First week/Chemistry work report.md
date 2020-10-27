@@ -1,19 +1,14 @@
 <h1 align="center">گزارش کار آزمایشگاه شیمی</h1>
 
-<ul dir="rtl">
-  <li>مقدمه</li>
-  <li>هدف</li>
-  <li>شرح آزمایش</li>
-  <li>مواد مورد نیاز</li>
-  <li>منابع</li>
-</ul>
+
+<!-- شروع مقدمه -->
+<h2 dir="rtl" id="Introduction">مقدمه</h2>
 
 <p align="center">
   <img src="https://github.com/ashkanjalaliQ/chemistry_laboratory/blob/main/images/demo.webp?raw=true"/>
 </p>
 
-<!-- شروع مقدمه -->
-<h2 dir="rtl" id="Introduction">مقدمه</h2>
+
 <p dir="rtl">
 اگر داستان پادشاه یادتان باشد، باید بگویم که این جلسه هم درباره همون پادشاه ظالم حرف میزنیم :دی 
 </p>
