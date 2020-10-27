@@ -1,11 +1,11 @@
 <h1 align="center">گزارش کار آزمایشگاه شیمی</h1>
 
-<ul>
-  <li>مقدمه</li>
+<ul dir="rtl">
+  <li href="#Introduction">مقدمه</li>
   <li>هدف</li>
   <li>شرح آزمایش</li>
   <li>مواد مورد نیاز</li>
-  <li>منابع/li>
+  <li>منابع</li>
 </ul>
 
 
