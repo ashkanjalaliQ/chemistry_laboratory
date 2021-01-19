@@ -1,7 +1,7 @@
 <h1 dir="rtl">آزمایشگاه شیمی</h1>
 
 <p dir="center">
-  <img src="https://github.com/ashkanjalaliQ/chemistry_laboratory/blob/main/images/poster.png" />
+  <img width="100%" src="https://github.com/ashkanjalaliQ/chemistry_laboratory/blob/main/images/poster.png" />
 </p>
 
 <div class="reports">
